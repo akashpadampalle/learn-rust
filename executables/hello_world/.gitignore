@@ -1,27 +1,3 @@
 # Compiled files
 target/
 
-# Cargo.lock file
-Cargo.lock
-
-# Dependency directory
-vendor/
-
-# IDE-specific files (for example, if you're using VSCode)
-.vscode/
-
-# Rust VS Code settings
-.rustc_info.json
-
-# Build directory
-build/
-
-# Editor-specific files
-*~
-
-# Temporary files
-*.swp
-
-# OS-specific files
-.DS_Store
-Thumbs.db
